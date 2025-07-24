@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV.
 <!--
 **Trenza1ore/Trenza1ore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
