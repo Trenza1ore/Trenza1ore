@@ -1,6 +1,6 @@
 # [Personal Website](https://trenza1ore.github.io/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV.
