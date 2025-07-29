@@ -1,7 +1,7 @@
 # [Personal Website](https://trenza1ore.github.io/)
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV.
 <!--
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![lang-stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Trenza1ore&size_weight=1.0&count_weight=0.0&langs_count=20&layout=donut-vertical)
