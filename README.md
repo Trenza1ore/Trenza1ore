@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![lang-stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Trenza1ore&size_weight=1.0&count_weight=0.0&langs_count=20&layout=donut-vertical)
+[![Hugo profile views](https://u8views.com/api/v1/github/profiles/25863274/views/day-week-month-total-count.svg)](https://u8views.com/github/Trenza1ore)
