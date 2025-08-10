@@ -1,5 +1,9 @@
 # Hugo Huang
-Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV. Have gotten a **Star of Edinburgh Award**.
+Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV. 
+
+Have gotten a **Star of Edinburgh Award**.
+
+Personal Website: https://trenza1ore.github.io/
 
 ## Projects
 - **sb3-extra-buffers**:
@@ -12,8 +16,7 @@ Just a random research engineer at Huawei Edinburgh Research Centre who loves RL
 - **Stable Baselines 3**:
     - Matched rollout buffers' datatype-decision logic with replay buffers'.
 
-## Personal Website
-https://trenza1ore.github.io/
+## 
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
