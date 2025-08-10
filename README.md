@@ -14,6 +14,8 @@
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
 - **Stable Baselines 3**:
     - Matched rollout buffers' datatype-decision logic with replay buffers'
+- **std-raytracer**:
+    - Personal project, a feature-rich pathtracer implemented using only C++17 standard libraries
 
 ## 
 
