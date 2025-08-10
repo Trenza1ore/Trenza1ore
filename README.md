@@ -1,4 +1,4 @@
-# Hiii, Hugo Huang here, nice to meet ya~ 
+# 👋 Hiii, Hugo here, nice to meet ya~ 
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
 Really like games, especially **Doom** :godmode:
 
