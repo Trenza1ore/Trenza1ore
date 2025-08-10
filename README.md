@@ -1,4 +1,4 @@
-# [Personal Website](https://trenza1ore.github.io/)
+# [Hugo Huang](https://trenza1ore.github.io/)
 Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV. Have gotten a **Star of Edinburgh Award**.
 
 ## Projects
@@ -11,6 +11,9 @@ Just a random research engineer at Huawei Edinburgh Research Centre who loves RL
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
 - **Stable Baselines 3**:
     - Unified buffer datatypes decision logic
+
+## Personal Website
+https://trenza1ore.github.io/
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
