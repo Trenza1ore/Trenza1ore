@@ -12,7 +12,7 @@
     - Semantic Segmentation observation wrappers
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
 - **Stable Baselines 3**:
-    - Matched rollout buffers' datatype-decision logic with replay buffers'.
+    - Matched rollout buffers' datatype-decision logic with replay buffers'
 
 ## 
 
