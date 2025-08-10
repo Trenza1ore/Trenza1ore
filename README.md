@@ -1,6 +1,7 @@
 # Hiii, Hugo Huang here, nice to meet ya~ 
-:shipit: Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
-Really like games, especially **Doom** :suspect:
+Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
+Really like games, especially **Doom** :godmode:
+
 **Personal Website**: 
 https://trenza1ore.github.io/
 
