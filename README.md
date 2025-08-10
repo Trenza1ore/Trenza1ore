@@ -1,4 +1,4 @@
-# [Hugo Huang](https://trenza1ore.github.io/)
+# Hugo Huang
 Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV. Have gotten a **Star of Edinburgh Award**.
 
 ## Projects
