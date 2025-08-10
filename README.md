@@ -10,7 +10,7 @@ Just a random research engineer at Huawei Edinburgh Research Centre who loves RL
     - Semantic Segmentation observation wrappers
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
 - **Stable Baselines 3**:
-    - Unified buffer datatypes decision logic
+    - Matched rollout buffers' datatype-decision logic with replay buffers'.
 
 ## Personal Website
 https://trenza1ore.github.io/
