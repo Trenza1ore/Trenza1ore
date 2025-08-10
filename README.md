@@ -1,9 +1,19 @@
 # [Personal Website](https://trenza1ore.github.io/)
+Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV. Have gotten a **Star of Edinburgh Award**.
+
+## Projects
+- **sb3-extra-buffers**:
+    - Maintainer
+- **ViZDoom**:
+    - Python typing / hinting support
+    - In-engine game object categorization
+    - Semantic Segmentation observation wrappers
+    - Investigate & fix bugs in Github actions & Gymnasium wrapper
+- **Stable Baselines 3**:
+    - Unified buffer datatypes decision logic
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV.
 <!--
 **Trenza1ore/Trenza1ore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
