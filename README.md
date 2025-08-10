@@ -1,9 +1,7 @@
 # Hugo Huang
-Just a random research engineer at Huawei Edinburgh Research Centre who loves RL & CV. 
-
-Have gotten a **Star of Edinburgh Award**.
-
-Personal Website: https://trenza1ore.github.io/
+- Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. 
+- Have gotten a **Star of Edinburgh Award**.
+- **Personal Website**: https://trenza1ore.github.io/
 
 ## Projects
 - **sb3-extra-buffers**:
