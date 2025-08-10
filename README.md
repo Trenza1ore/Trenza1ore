@@ -1,7 +1,7 @@
-# Hiii, Hugo Huang here, nice to meet ya~ :shipit:
-- Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
-- **Personal Website**: https://trenza1ore.github.io/
-- Really likes **Doom** :suspect: :hurtrealbad: :feelsgood: :goberserk: :finnadie: :rage1: :rage2: :rage3: :rage4: :godmode:
+# Hiii, Hugo Huang here, nice to meet ya~ 
+- :shipit: Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
+- 💻 **Personal Website**: https://trenza1ore.github.io/
+- 👾 Really like games, especially **Doom** :suspect: :hurtrealbad: :feelsgood: :goberserk: :finnadie: :rage1: :rage2: :rage3: :rage4: :godmode:
 
 ## Projects
 - **sb3-extra-buffers**:
