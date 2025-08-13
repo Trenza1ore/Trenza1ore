@@ -18,11 +18,9 @@ https://trenza1ore.github.io/
 - **std-raytracer**:
     - Personal project, a feature-rich pathtracer implemented using only C++17 standard libraries
 
-## 
-
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=gitdimmed&column=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=flat&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
 **Trenza1ore/Trenza1ore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
