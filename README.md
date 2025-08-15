@@ -2,8 +2,8 @@
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
 Really like games, especially **Doom** :godmode:
 
-- **Personal Website**: https://trenza1ore.github.io/
-- **My Gitee**: https://gitee.com/SushiNinja
+- **Personal Website:** https://trenza1ore.github.io/
+- **My Gitee Account:** https://gitee.com/SushiNinja
 
 ## Projects
 - **sb3-extra-buffers**:
