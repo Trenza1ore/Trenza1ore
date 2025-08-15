@@ -5,6 +5,9 @@ Really like games, especially **Doom** :godmode:
 **Personal Website**: 
 https://trenza1ore.github.io/
 
+**My Gitee**:
+https://gitee.com/SushiNinja
+
 ## Projects
 - **sb3-extra-buffers**:
     - Maintainer
