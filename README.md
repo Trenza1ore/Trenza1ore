@@ -1,9 +1,11 @@
 # 👋 Hiii, Hugo here, nice to meet ya~ 
-Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award.
-Really like games, especially **Doom** :godmode:
-
 - **Personal Website:** https://trenza1ore.github.io/
 - **My Gitee Account:** https://gitee.com/SushiNinja
+
+Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award from the research centre within 1 year of joining.
+Really like games, especially **Doom** :godmode:
+<!--![Star of Edinburgh Award](https://github.com/user-attachments/assets/da3517f8-5470-4bdc-a8cd-c55dbd555e9e)-->
+
 
 ## Projects
 - **sb3-extra-buffers**:
