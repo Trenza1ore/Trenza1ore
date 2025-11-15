@@ -8,11 +8,9 @@ Really like games, especially **Doom** :godmode:
 
 
 ## Projects
-[![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
-- **sb3-extra-buffers**:
+- **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
     - Maintainer
-[![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
-- **ViZDoom**:
+- **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
     - Python typing / hinting support
     - In-engine game object categorization
     - Semantic Segmentation observation wrappers
