@@ -8,16 +8,16 @@ Really like games, especially **Doom** :godmode:
 
 
 ## Projects
-- **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
+### **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
     - Maintainer
-- **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
+### **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
     - Python typing / hinting support
     - In-engine game object categorization
     - Semantic Segmentation observation wrappers
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
-- **Stable Baselines 3**:
+### **Stable Baselines 3** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3)](https://pepy.tech/projects/stable-baselines3)
     - Matched rollout buffers' datatype-decision logic with replay buffers'
-- **std-raytracer**:
+### **std-raytracer**
     - Personal project, a feature-rich pathtracer implemented using only C++17 standard libraries
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=flat&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
