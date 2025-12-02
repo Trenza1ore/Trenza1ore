@@ -1,20 +1,19 @@
 # 👋 Hiii, Hugo here, nice to meet ya~ 
 - **Personal Website:** https://trenza1ore.github.io/
-- **My Gitee Account:** https://gitee.com/SushiNinja
+- **Other Accounts (for Huawei):** [Gitcode](https://gitcode.com/SushiNinja) & [Gitee](https://gitee.com/SushiNinja)
 
-Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a Star of Edinburgh Award from the research centre within 1 year of joining.
-Really like games, especially **Doom** :godmode:
+Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a **Star of Edinburgh Award** for my work in Graph-based Agent Memory. Really like games, especially **Doom**.
 <!--![Star of Edinburgh Award](https://github.com/user-attachments/assets/da3517f8-5470-4bdc-a8cd-c55dbd555e9e)-->
 
 
 ## Projects
-### **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
-    - Maintainer
 ### **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
     - Python typing / hinting support
     - In-engine game object categorization
     - Semantic Segmentation observation wrappers
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
+### **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
+    - Maintainer
 ### **Stable Baselines 3** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3)](https://pepy.tech/projects/stable-baselines3)
     - Matched rollout buffers' datatype-decision logic with replay buffers'
 ### **std-raytracer**
