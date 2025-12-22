@@ -1,7 +1,7 @@
 # 👋 Hiii, Hugo here, nice to meet ya~ 
 - **Personal Website:** https://hugohuang.com/
 - **Other Accounts (for Huawei):** [Gitcode](https://gitcode.com/SushiNinja) & [Gitee](https://gitee.com/SushiNinja)
-- **OpenJiuwen - Huawei's Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) [Gitcode](https://gitcode.com/openJiuwen)
+- **OpenJiuwen - Huawei's Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) & [Gitcode](https://gitcode.com/openJiuwen)
 
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Graph-based Agent Memory. Really like games, especially **Doom**.
 <!--![Star of Edinburgh Award](https://github.com/user-attachments/assets/da3517f8-5470-4bdc-a8cd-c55dbd555e9e)-->
