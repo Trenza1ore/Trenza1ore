@@ -3,7 +3,7 @@
 - **Other Accounts:** [Gitcode](https://gitcode.com/SushiNinja)
 > **OpenJiuwen - Huawei's LLM Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) & [Gitcode](https://gitcode.com/openJiuwen)
 
-Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in [openJiuwen](https://www.openjiuwen.com). Really like games, especially **Doom** & Monster Hunter.
+Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in [Jiuwen](https://www.openjiuwen.com). Really like games, especially **Doom** & Monster Hunter.
 
 ## Projects
 ### **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
