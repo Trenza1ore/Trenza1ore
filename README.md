@@ -5,12 +5,16 @@
 
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Jiuwen & openJiuwen. Really like games, especially **Doom** & Monster Hunter.
 
-## Projects
+## Favourite Projects
 ### **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
-    - Python typing / hinting support
+    - Python type hinting support
     - In-engine game object categorization
     - Semantic Segmentation observation wrappers
+    - Parallelize & refactor unit tests
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
+### **OpenJiuwen** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen)](https://pepy.tech/projects/openjiuwen)
+    - Various fixes & enhancements & code reviews for the Knowledge Base Retrieval feature
+    - Makefile for code checking & formatting
 ### **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
     - Maintainer
 ### **Stable Baselines 3** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3)](https://pepy.tech/projects/stable-baselines3)
