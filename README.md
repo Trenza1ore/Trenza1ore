@@ -15,7 +15,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
     - Parallelize & refactor unit tests
     - Investigate & fix bugs in Github actions & Gymnasium wrapper
 ### **OpenJiuwen** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen)](https://pepy.tech/projects/openjiuwen)
-    - Various fixes & enhancements & code reviews for the Knowledge Base Retrieval feature
+    - I basically own Knowledge Base Retrieval & Graph Store feature
     - Makefile for code checking & formatting
 ### **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
     - Maintainer
