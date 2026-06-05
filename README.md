@@ -14,8 +14,8 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 ### **GitCode API** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 ### **OpenJiuwen** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen)](https://pepy.tech/projects/openjiuwen)
-- I basically own Knowledge Base Retrieval & Graph Store feature
-- Makefile for code checking & formatting
+- I basically own Knowledge Base Retrieval & Graph Store feature, also code reviewer & bug hunter for the code base in general~
+- Makefile for code checking & formatting.
 ### **sb3-extra-buffers** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers)](https://pepy.tech/projects/sb3-extra-buffers)
 - Personal project, easy-to-use compressed RL buffers with acceptable latency. Stared by maintainers of SB3 & OpenAI Gym :-)
 ### **Stable Baselines 3** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3)](https://pepy.tech/projects/stable-baselines3)
