@@ -32,7 +32,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 |---|---|
 |[![gitanimals](https://render.gitanimals.org/farms/trenza1ore)](https://github.com/devxb/gitanimals)|![lang-stat](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Trenza1ore&size_weight=1.0&count_weight=0.0&langs_count=20&hide_progress=true)|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=flat&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![Hugo profile views](https://u8views.com/api/v1/github/profiles/25863274/views/day-week-month-total-count.svg)](https://u8views.com/github/Trenza1ore)
 
 <!--
 **Trenza1ore/Trenza1ore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Trenza1ore&theme=flat&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Hugo profile views](https://u8views.com/api/v1/github/profiles/25863274/views/day-week-month-total-count.svg)](https://u8views.com/github/Trenza1ore)
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trenza1ore&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=github&show_icons=true)
+
+-->
