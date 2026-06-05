@@ -7,13 +7,13 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 
 ## Projects I am Proud of:
 ### **ViZDoom** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom)](https://pepy.tech/projects/vizdoom)
-    - Python type hinting support
-    - In-engine game object categorization
-    - Semantic Segmentation observation wrappers
-    - Parallelize & refactor unit tests
-    - Investigate & fix bugs in Github actions & Gymnasium wrapper
+- Python type hinting support
+- In-engine game object categorization
+- Semantic Segmentation observation wrappers
+- Parallelize & refactor unit tests
+- Investigate & fix bugs in Github actions & Gymnasium wrapper
 ### **GitCode API** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api)](https://pepy.tech/projects/gitcode-api)
-    - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
+- Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 ### **OpenJiuwen** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen)](https://pepy.tech/projects/openjiuwen)
     - I basically own Knowledge Base Retrieval & Graph Store feature
     - Makefile for code checking & formatting
