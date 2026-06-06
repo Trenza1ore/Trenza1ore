@@ -5,23 +5,23 @@
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Jiuwen. Really like games, especially **Doom** & Monster Hunter.
 
 ## Projects I am Proud of:
-### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-brown?style=for-the-badge)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=for-the-badge)](https://pepy.tech/projects/vizdoom)
+### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-brown?style=for-the-badge)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social)](https://pepy.tech/projects/vizdoom)
 - Python type hinting support
 - In-engine game object categorization
 - Semantic Segmentation observation wrappers
 - Parallelize & refactor unit tests
 - Investigate & fix bugs in Github actions & Gymnasium wrapper
-### [![GitCode API](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-cyan?style=for-the-badge)](https://hugohuang.com/gitcode-api) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=for-the-badge)](https://pepy.tech/projects/gitcode-api)
+### [![GitCode API](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-cyan?style=for-the-badge)](https://hugohuang.com/gitcode-api) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
-### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-brown?style=for-the-badge)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=for-the-badge)](https://pepy.tech/projects/openjiuwen)
+### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-brown?style=for-the-badge)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
 - I basically own Knowledge Base Retrieval & Graph Store feature, also code reviewer & bug hunter for the code base in general~
 - Makefile for code checking & formatting.
-### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-cyan?style=for-the-badge)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=for-the-badge)](https://pepy.tech/projects/sb3-extra-buffers)
+### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-cyan?style=for-the-badge)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social)](https://pepy.tech/projects/sb3-extra-buffers)
 - Personal project, easy-to-use compressed RL buffers with acceptable latency. Stared by maintainers of SB3 & OpenAI Gym :-)
-### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-orange?style=for-the-badge)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=for-the-badge)](https://pepy.tech/projects/stable-baselines3)
+### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-orange?style=for-the-badge)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social)](https://pepy.tech/projects/stable-baselines3)
 - Matched rollout buffers' datatype-decision logic with replay buffers'.
 - Added custom rollout buffer support in jax version of SB3.
-### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=for-the-badge)](https://career-emulator.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/career-emulator?style=for-the-badge)](https://pepy.tech/projects/career-emulator)
+### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=for-the-badge)](https://career-emulator.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/career-emulator?style=social)](https://pepy.tech/projects/career-emulator)
 - Career simulation game for humans (CLI) & agents (MCP) alike. Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), jointly hosted by Huawei & [CCF (China Computer Federation)](https://www.ccf.org.cn).
 ### **std-raytracer**
 - Personal project, a feature-rich pathtracer implemented using only C++17 standard libraries.
