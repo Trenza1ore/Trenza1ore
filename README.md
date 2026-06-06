@@ -11,7 +11,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Semantic Segmentation observation wrappers
 - Parallelize & refactor unit tests
 - Investigate & fix bugs in Github actions & Gymnasium wrapper
-### [![GitCode API](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-cyan?style=for-the-badge)](https://gitcode-api.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api)](https://pepy.tech/projects/gitcode-api)
+### [![GitCode API](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-cyan?style=for-the-badge)](https://gitcode-api.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=for-the-badge)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 ### **OpenJiuwen** [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen)](https://pepy.tech/projects/openjiuwen)
 - I basically own Knowledge Base Retrieval & Graph Store feature, also code reviewer & bug hunter for the code base in general~
