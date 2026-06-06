@@ -5,7 +5,7 @@
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Jiuwen. Really like games, especially **Doom** & Monster Hunter.
 
 ## Projects I am Proud of:
-### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-brown?style=flat)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social)](https://pepy.tech/projects/vizdoom)
+### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-orange?style=flat)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social)](https://pepy.tech/projects/vizdoom)
 - Python type hinting support
 - In-engine game object categorization
 - Semantic Segmentation observation wrappers
@@ -13,7 +13,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Investigate & fix bugs in Github actions & Gymnasium wrapper
 ### [![GitCode API](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-red?style=flat)](https://hugohuang.com/gitcode-api) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
-### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-brown?style=flat)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
+### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-orange?style=flat)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
 - I basically own Knowledge Base Retrieval & Graph Store feature, also code reviewer & bug hunter for the code base in general~
 - Makefile for code checking & formatting.
 ### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-red?style=flat)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social)](https://pepy.tech/projects/sb3-extra-buffers)
