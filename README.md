@@ -5,17 +5,17 @@
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Jiuwen. Really like games, especially **Doom** & Monster Hunter.
 
 ## Projects I am Proud of:
-### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-orange?style=flat)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social)](https://pepy.tech/projects/vizdoom)
+### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-cyan?style=flat)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social)](https://pepy.tech/projects/vizdoom)
 - Python type hinting support.
 - In-engine game object categorization.
 - Semantic Segmentation observation wrappers.
 - Parallelize & refactor unit tests.
 - Investigate & fix bugs in Github actions & Gymnasium wrapper.
-### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-orange?style=flat)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
+### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-cyan?style=flat)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
 - In charge of Knowledge Base Retrieval, Graph Memory, Graph Store feature.
 - Code reviewer & bug hunter for most repos within openJiuwen ecosystem.
 - Makefile for code checking & formatting.
-### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-orange?style=flat)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social)](https://pepy.tech/projects/stable-baselines3)
+### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-cyan?style=flat)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social)](https://pepy.tech/projects/stable-baselines3)
 - Improved memory efficiency of rollout buffers.
 - Added custom rollout buffer support in [sbx](https://github.com/araffin/sbx), jax version of SB3.
 ### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%20extra%20buffers-Maintainer-blue?style=flat)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social)](https://pepy.tech/projects/sb3-extra-buffers)
