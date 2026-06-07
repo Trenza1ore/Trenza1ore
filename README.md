@@ -23,7 +23,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 ### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat)](https://hugohuang.com/gitcode-api) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 ### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=flat)](https://career-emulator.readthedocs.io)
-- Career simulation game for humans (CLI) & agents (MCP) alike. Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), jointly hosted by Huawei & [CCF (China Computer Federation)](https://www.ccf.org.cn).
+- Career simulation game for humans (CLI) & agents (MCP) alike. Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), jointly hosted by Huawei & [China Computer Federation](https://www.ccf.org.cn).
 ### **std-raytracer**
 - Personal project, a feature-rich pathtracer implemented using only C++17 standard libraries.
 ### **Relax-Painter**
