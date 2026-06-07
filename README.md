@@ -22,7 +22,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 ### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-orange?style=flat)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social)](https://pepy.tech/projects/stable-baselines3)
 - Matched rollout buffers' datatype-decision logic with replay buffers'.
 - Added custom rollout buffer support in jax version of SB3.
-### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-red?style=flat)](https://career-emulator.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/career-emulator?style=social)](https://pepy.tech/projects/career-emulator)
+### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-red?style=flat)](https://career-emulator.readthedocs.io)
 - Career simulation game for humans (CLI) & agents (MCP) alike. Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), jointly hosted by Huawei & [CCF (China Computer Federation)](https://www.ccf.org.cn).
 ### **std-raytracer**
 - Personal project, a feature-rich pathtracer implemented using only C++17 standard libraries.
