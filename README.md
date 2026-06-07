@@ -18,7 +18,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 ### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-orange?style=flat)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social)](https://pepy.tech/projects/stable-baselines3)
 - Improved memory efficiency of rollout buffers.
 - Added custom rollout buffer support in [sbx](https://github.com/araffin/sbx), jax version of SB3.
-### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-red?style=flat)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social)](https://pepy.tech/projects/sb3-extra-buffers)
+### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%20extra%20buffers-Maintainer-red?style=flat)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social)](https://pepy.tech/projects/sb3-extra-buffers)
 - Personal project, easy-to-use compressed RL buffers with acceptable latency. Stared by maintainers of SB3 & OpenAI Gym :-)
 ### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-red?style=flat)](https://hugohuang.com/gitcode-api) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
