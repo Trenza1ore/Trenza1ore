@@ -14,7 +14,8 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 ### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-red?style=flat)](https://hugohuang.com/gitcode-api) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social)](https://pepy.tech/projects/gitcode-api)
 - Personal project, community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform. With user-centric API design, is now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 ### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-orange?style=flat)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
-- I basically own Knowledge Base Retrieval & Graph Store feature, also code reviewer & bug hunter for the code base in general~
+- In charge of Knowledge Base Retrieval, Graph Memory, Graph Store feature.
+- Code reviewer & bug hunter for most repos within openJiuwen ecosystem.
 - Makefile for code checking & formatting.
 ### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%E2%80%94extra%E2%80%94buffers-Maintainer-red?style=flat)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social)](https://pepy.tech/projects/sb3-extra-buffers)
 - Personal project, easy-to-use compressed RL buffers with acceptable latency. Stared by maintainers of SB3 & OpenAI Gym :-)
