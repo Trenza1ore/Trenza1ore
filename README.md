@@ -12,7 +12,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Parallelize & refactor unit tests.
 - Investigate & fix bugs in Github actions & Gymnasium wrapper.
 ### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-brown?style=flat)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social)](https://pepy.tech/projects/openjiuwen)
-- In charge of Knowledge Base Retrieval, Graph Memory, Graph Store feature.
+- In charge of Knowledge Base Retrieval, Graph Store / Memory feature.
 - Code reviewer & bug hunter for most repos within openJiuwen ecosystem.
 - Makefile for code checking & formatting.
 ### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-brown?style=flat)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social)](https://pepy.tech/projects/stable-baselines3)
