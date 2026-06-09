@@ -56,10 +56,14 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Support custom models and textures, multi-threading, BVH (Bounding Volume Hierarchy) acceleration and modes for distributed rendering.
 - Path-tracing features like area lights, antialiasing sampling, aperture sampling, BRDF materials and multi-bounce path tracing.
 
-
 ### [![Relax-Painter](https://img.shields.io/badge/Relax%20Painter-Java-blue?style=flat&uuid=85ba05b340524d90a41d91b517e3e65a)](https://github.com/Trenza1ore/relax-painter)
 - Undergraduate coursework, painterly rendering with Java.
+- Much simplified implementation of paper [Paint by relaxation](https://mrl.cs.nyu.edu/publications/painterly-relaxation), a bit more like [Painterly rendering with curved brush strokes of multiple sizes](https://dl.acm.org/doi/10.1145/280814.280951) in practice.
 - Multi-threaded with optimistic locking.
+
+### [![HugoSynth](https://img.shields.io/badge/HugoSynth-Matlab-blue?style=flat&uuid=85ba05b340524d90a41d91b517e3e65a)]([https://github.com/Trenza1ore/relax-painter](https://github.com/Trenza1ore/HugoSynth))
+- Undergraduate coursework, synthesizer GUI app with Matlab.
+- A feature-rich synthesizer app for cross-synthesis, granular convolution, spectrogram editing, ADSR enveloping, etc.
 
 </details>
 
