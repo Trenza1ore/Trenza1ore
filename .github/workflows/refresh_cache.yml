@@ -1,0 +1,44 @@
+name: Refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 6"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme-images-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh-readme-images:
+    runs-on: ubuntu-latest
+
+    # Avoid endless self-trigger loops from the bot's own commit.
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Mutate README image URIs
+        run: python scripts/mutate_img.py
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README image URI changes to commit."
+            exit 0
+          fi
+
+          git config user.name "Hugo"
+          git config user.email "hugo@hugohuang.com"
+
+          git add README.md
+          git commit -m "Refresh README image cache"
+          git push
