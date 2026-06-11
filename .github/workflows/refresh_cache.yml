@@ -36,8 +36,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name "Hugo"
-          git config user.email "hugo@hugohuang.com"
+          git config user.name "Trenza1ore"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add README.md
           git commit -m "Refresh README image cache"
