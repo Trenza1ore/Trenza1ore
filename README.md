@@ -16,7 +16,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 
 ### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=flat&uuid=71d632d7576e4f0cbd3871a64f48842a)](https://career-emulator.readthedocs.io)
 - Career simulation game for humans (CLI) & agents (MCP) alike.
-- Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), jointly hosted by Huawei & [China Computer Federation](https://www.ccf.org.cn).
+- Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), hosted by [China Computer Federation](https://www.ccf.org.cn).
 
 ---
 
