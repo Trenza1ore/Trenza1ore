@@ -18,6 +18,8 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Career simulation game for humans (CLI) & agents (MCP) alike.
 - Part of [CCF BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026), jointly hosted by Huawei & [China Computer Federation](https://www.ccf.org.cn).
 
+---
+
 <details>
 <summary>
 
@@ -43,6 +45,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 
 </details>
 
+---
 
 <details>
 <summary>
