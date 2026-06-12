@@ -64,7 +64,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Much simplified implementation of paper [Paint by relaxation](https://mrl.cs.nyu.edu/publications/painterly-relaxation), a bit more like [Painterly rendering with curved brush strokes of multiple sizes](https://dl.acm.org/doi/10.1145/280814.280951) in practice.
 - Multi-threaded with optimistic locking.
 
-### [![HugoSynth](https://img.shields.io/badge/HugoSynth-Matlab-blue?style=flat&uuid=889d387347304742821971912a32a065)]([https://github.com/Trenza1ore/relax-painter](https://github.com/Trenza1ore/HugoSynth))
+### [![HugoSynth](https://img.shields.io/badge/HugoSynth-Matlab-blue?style=flat&uuid=889d387347304742821971912a32a065)](https://github.com/Trenza1ore/HugoSynth)
 - Undergraduate coursework, synthesizer GUI app with Matlab.
 - A feature-rich synthesizer app for cross-synthesis, granular convolution, spectrogram editing, ADSR enveloping, etc.
 
