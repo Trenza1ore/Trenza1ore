@@ -61,7 +61,7 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 
 ### [![Relax-Painter](https://img.shields.io/badge/Relax%20Painter-Java-blue?style=flat&uuid=da83cab9df9b4e938be7d0267a52f723)](https://github.com/Trenza1ore/relax-painter)
 - Undergraduate coursework, painterly rendering with Java.
-- Much simplified implementation of paper [Paint by relaxation](https://mrl.cs.nyu.edu/publications/painterly-relaxation), a bit more like [Painterly rendering with curved brush strokes of multiple sizes](https://dl.acm.org/doi/10.1145/280814.280951) in practice.
+- Much simplified version of [Paint by relaxation](https://mrl.cs.nyu.edu/publications/painterly-relaxation), more like [Painterly rendering with curved brush strokes of multiple sizes](https://dl.acm.org/doi/10.1145/280814.280951) in practice.
 - Multi-threaded with optimistic locking.
 
 ### [![HugoSynth](https://img.shields.io/badge/Hugo%20Synth-Matlab-blue?style=flat&uuid=da83cab9df9b4e938be7d0267a52f723)](https://github.com/Trenza1ore/HugoSynth)
