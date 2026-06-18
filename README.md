@@ -27,14 +27,14 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 
 </summary>
 
-### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Top%20Contributor-brown?style=flat&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://pepy.tech/projects/vizdoom)
+### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Contributor-brown?style=flat&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://pepy.tech/projects/vizdoom)
 - Python type hinting support, integrated as part of CMake build pipeline.
 - In-engine game object categorization.
 - Semantic Segmentation observation wrappers.
 - Parallelize & refactor unit tests.
 - Investigate & fix bugs in Github actions & Gymnasium wrapper.
 
-### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Top%20Contributor-brown?style=flat&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://pepy.tech/projects/openjiuwen)
+### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Contributor-brown?style=flat&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social&uuid=290f83af9fd74a7ab495f7bd63f48ea5)](https://pepy.tech/projects/openjiuwen)
 - In charge of Knowledge Base Retrieval, Graph Store / Memory feature.
 - Code reviewer & bug hunter for most repos within openJiuwen ecosystem.
 - Makefile for code checking & formatting.
