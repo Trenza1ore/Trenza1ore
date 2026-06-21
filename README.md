@@ -1,4 +1,7 @@
 # 👋 Hiii, Hugo here, nice to meet ya~ 
+
+[![HighwayEnv Maintainer](https://img.shields.io/badge/Maintainer-HighwayEnv-%20?style=for-the-badge&logo=openaigym&logoColor=white&labelColor=black&color=white&cacheSeconds=43200)](https://highway-env.farama.org/main/) [![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/HighwayEnv?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white&cacheSeconds=43200)](https://github.com/Farama-Foundation/HighwayEnv) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/highway-env?style=for-the-badge&logo=pypi&logoColor=white&label=downs&labelColor=black&color=white&cacheSeconds=43200)](https://pypistats.org/packages/highway-env)
+
 **Personal Website:** https://hugohuang.com/
 > **openJiuwen - Huawei's LLM Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) & [Source](https://gitcode.com/openJiuwen)
 
