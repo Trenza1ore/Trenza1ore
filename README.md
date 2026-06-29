@@ -11,11 +11,11 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 
 ## 🔧 Other Projects I Maintain
 
-### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://gitcode-api.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://pepy.tech/projects/gitcode-api)
+### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://github.com/Trenza1ore/GitCode-API) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://pepy.tech/projects/gitcode-api)
 - Community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform, built with user-centric API design.
 - Now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 
-### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%20extra%20buffers-Maintainer-cyan?style=flat&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://compressed-rl.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://pepy.tech/projects/sb3-extra-buffers)
+### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%20extra%20buffers-Maintainer-cyan?style=flat&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://github.com/Trenza1ore/sb3-extra-buffers) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social&uuid=4c47176985c44bb8b7affa42eec5ab83)](https://pepy.tech/projects/sb3-extra-buffers)
 - Easy-to-use compressed RL buffers with acceptable latency.
 - Stared by maintainers of SB3 & OpenAI Gym :-)
 
