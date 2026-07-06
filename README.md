@@ -19,9 +19,9 @@ Just a random research engineer at **Huawei Edinburgh Research Centre** who love
 - Easy-to-use compressed RL buffers with acceptable latency.
 - Stared by maintainers of SB3 & OpenAI Gym :-)
 
-#### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=flat&uuid=a1e70a87325445ecb1f4ffb2d8c2cb29)](https://career-emulator.readthedocs.io)
+<!-- #### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=flat&uuid=a1e70a87325445ecb1f4ffb2d8c2cb29)](https://career-emulator.readthedocs.io)
 - Career simulation game for humans (CLI) & agents (MCP) alike.
-- Part of [BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026) hosted by [China Computer Federation](https://www.ccf.org.cn).
+- Part of [BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026) hosted by [China Computer Federation](https://www.ccf.org.cn). -->
 
 ---
 
