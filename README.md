@@ -9,6 +9,8 @@
 
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Jiuwen. Really like games, especially **Doom** & Monster Hunter. I am the current maintainer of [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv). Feel free to contact me on the [Farama Discord server](https://discord.gg/bnJ6kubTg6).
 
+P.S. I marked the official support of [self-referential extras](https://pip.pypa.io/en/latest/reference/requirement-specifiers/#self-referential-extras) in pip, which you might have been using for years already :-)
+
 ### 🔧 Other Projects I Maintain
 
 #### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=a1e70a87325445ecb1f4ffb2d8c2cb29)](https://github.com/Trenza1ore/GitCode-API) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=a1e70a87325445ecb1f4ffb2d8c2cb29)](https://pepy.tech/projects/gitcode-api)
