@@ -9,7 +9,7 @@
 
 Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in openJiuwen. Really like games, especially **Doom** & Monster Hunter. I am the current maintainer of [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv). Feel free to contact me on the [Farama Discord server](https://discord.gg/bnJ6kubTg6).
 
-I wrote the **Self-Referential Extras** parts of [Python Packaging User Guide](https://packaging.python.org) and marked its official support in pip, ur welcome :-)
+I wrote the *self-referential extras* part of [Python Packaging Guide](https://packaging.python.org) and marked its official support in pip, ur welcome :-)
 
 ### 🔧 Personal Projects
 
