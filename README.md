@@ -7,9 +7,11 @@
 **Personal Website:** https://hugohuang.com/
 > **openJiuwen - Huawei's LLM Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) & [Source](https://gitcode.com/openJiuwen)
 
-Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in Jiuwen. Really like games, especially **Doom** & Monster Hunter. I am the current maintainer of [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv). Feel free to contact me on the [Farama Discord server](https://discord.gg/bnJ6kubTg6).
+Just a random research engineer at **Huawei Edinburgh Research Centre** who loves RL & CV. Got a [**Star of Edinburgh Award**](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in openJiuwen. Really like games, especially **Doom** & Monster Hunter. I am the current maintainer of [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv). Feel free to contact me on the [Farama Discord server](https://discord.gg/bnJ6kubTg6).
 
-### 🔧 Other Projects I Maintain
+I wrote the **Self-Referential Extras** parts of [Python Packaging User Guide](https://packaging.python.org) and marked its official support in pip, ur welcome :-)
+
+### 🔧 Personal Projects
 
 #### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=4425203690264b3b81c5a74cee35e71a)](https://github.com/Trenza1ore/GitCode-API) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=4425203690264b3b81c5a74cee35e71a)](https://pepy.tech/projects/gitcode-api)
 - Community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform, built with user-centric API design.
