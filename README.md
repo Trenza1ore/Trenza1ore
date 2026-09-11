@@ -15,7 +15,7 @@ I really like games, especially **Doom** & Monster Hunter. I am the current main
 
 I wrote the *self-referential extras* part of [Python Packaging Guide](https://packaging.python.org) and marked its official support in pip, ur welcome :-)
 
-### 🔧 Personal Projects
+### 🔧 Personal Projects I Maintain
 
 #### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Trenza1ore/GitCode-API) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pepy.tech/projects/gitcode-api)
 - Community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform, built with user-centric API design.
@@ -61,7 +61,7 @@ I wrote the *self-referential extras* part of [Python Packaging Guide](https://p
 <details>
 <summary>
 
-### 🔭 Purely Personal Projects
+### 🔭 Purely Personal Projects (One-off Stuffs)
 
 </summary>
 
