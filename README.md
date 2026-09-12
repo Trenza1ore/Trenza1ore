@@ -1,8 +1,8 @@
 ## 👋 Hiii, Hugo here, nice to meet ya~ 
 
-[![HighwayEnv Maintainer](https://img.shields.io/badge/Highway-Env-%3F?style=for-the-badge&labelColor=black&color=white&cacheSeconds=43200&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://highway-env.farama.org/main/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/HighwayEnv?style=for-the-badge&labelColor=black&color=white&cacheSeconds=43200&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Farama-Foundation/HighwayEnv)
-[![Pepy Total Downloads](https://img.shields.io/pepy/dt/highway-env?style=for-the-badge&label=downs&labelColor=black&color=white&cacheSeconds=43200&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pypistats.org/packages/highway-env)
+[![HighwayEnv Maintainer](https://img.shields.io/badge/Highway-Env-%3F?style=for-the-badge&labelColor=black&color=white&cacheSeconds=43200&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://highway-env.farama.org/main/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/HighwayEnv?style=for-the-badge&labelColor=black&color=white&cacheSeconds=43200&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/Farama-Foundation/HighwayEnv)
+[![Pepy Total Downloads](https://img.shields.io/pepy/dt/highway-env?style=for-the-badge&label=downs&labelColor=black&color=white&cacheSeconds=43200&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://pypistats.org/packages/highway-env)
 
 **Personal Website:** https://hugohuang.com/
 > **openJiuwen - Huawei's LLM Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) & [Source](https://gitcode.com/openJiuwen)
@@ -17,15 +17,15 @@ I wrote the *self-referential extras* part of [Python Packaging Guide](https://p
 
 ### 🔧 Personal Projects I Maintain
 
-#### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Trenza1ore/GitCode-API) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pepy.tech/projects/gitcode-api)
+#### [![GitCode API](https://img.shields.io/badge/GitCode%20API-Maintainer-cyan?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/Trenza1ore/GitCode-API) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/gitcode-api?style=social&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://pepy.tech/projects/gitcode-api)
 - Community-maintained Python SDK / CLI tool / MCP server for [GitCode](https://gitcode.com), the Chinese Git platform, built with user-centric API design.
 - Now the **most downloaded** GitCode tool & used a lot by me and colleagues!
 
-#### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%20extra%20buffers-Maintainer-cyan?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Trenza1ore/sb3-extra-buffers) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pepy.tech/projects/sb3-extra-buffers)
+#### [![sb3-extra-buffers](https://img.shields.io/badge/sb3%20extra%20buffers-Maintainer-cyan?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/Trenza1ore/sb3-extra-buffers) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/sb3-extra-buffers?style=social&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://pepy.tech/projects/sb3-extra-buffers)
 - Easy-to-use compressed RL buffers with acceptable latency.
 - Stared by maintainers of SB3 & OpenAI Gym :-)
 
-<!-- #### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://career-emulator.readthedocs.io)
+<!-- #### [![Career Emulator](https://img.shields.io/badge/Career%20Emulator-Maintainer-cyan?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://career-emulator.readthedocs.io)
 - Career simulation game for humans (CLI) & agents (MCP) alike.
 - Part of [BDCI Contest 2026](https://www.xir.cn/competition/races/BDCI2026) hosted by [China Computer Federation](https://www.ccf.org.cn). -->
 
@@ -38,19 +38,19 @@ I wrote the *self-referential extras* part of [Python Packaging Guide](https://p
 
 </summary>
 
-#### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Contributor-brown?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pepy.tech/projects/vizdoom)
+#### [![ViZDoom](https://img.shields.io/badge/ViZDoom-Contributor-brown?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://vizdoom.farama.org) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/vizdoom?style=social&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://pepy.tech/projects/vizdoom)
 - Python type hinting support, integrated as part of CMake build pipeline.
 - In-engine game object categorization.
 - Semantic Segmentation observation wrappers.
 - Parallelize & refactor unit tests.
 - Investigate & fix bugs in Github actions & Gymnasium wrapper.
 
-#### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Contributor-brown?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pepy.tech/projects/openjiuwen)
+#### [![Huawei openJiuwen](https://img.shields.io/badge/openJiuwen-Contributor-brown?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://openjiuwen.com) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/openjiuwen?style=social&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://pepy.tech/projects/openjiuwen)
 - In charge of Knowledge Base Retrieval, Graph Store / Memory feature.
 - Code reviewer & bug hunter for most repos within openJiuwen ecosystem.
 - Makefile for code checking & formatting.
 
-#### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-brown?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://pepy.tech/projects/stable-baselines3)
+#### [![Stable Baseline3](https://img.shields.io/badge/Stable%20Baselines3-Contributor-brown?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://stable-baselines3.readthedocs.io) [![Pepy Total Downloads](https://img.shields.io/pepy/dt/stable-baselines3?style=social&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://pepy.tech/projects/stable-baselines3)
 - Improved memory efficiency of rollout buffers.
 - Added custom rollout buffer support in [sbx](https://github.com/araffin/sbx), jax version of SB3.
 
@@ -65,17 +65,17 @@ I wrote the *self-referential extras* part of [Python Packaging Guide](https://p
 
 </summary>
 
-#### [![std-raytracer](https://img.shields.io/badge/STD%20Raytracer-C++-blue?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Trenza1ore/std-raytracer)
+#### [![std-raytracer](https://img.shields.io/badge/STD%20Raytracer-C++-blue?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/Trenza1ore/std-raytracer)
 - A feature-rich path-tracer implemented using only C++17 standard libraries (and nlohmann's json parser).
 - Support custom models and textures, multi-threading, BVH (Bounding Volume Hierarchy) acceleration and modes for distributed rendering.
 - Path-tracing features like area lights, antialiasing sampling, aperture sampling, BRDF materials and multi-bounce path tracing.
 
-#### [![Relax-Painter](https://img.shields.io/badge/Relax%20Painter-Java-blue?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Trenza1ore/relax-painter)
+#### [![Relax-Painter](https://img.shields.io/badge/Relax%20Painter-Java-blue?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/Trenza1ore/relax-painter)
 - Undergraduate coursework, painterly rendering with Java.
 - Much simplified version of [Paint by relaxation](https://mrl.cs.nyu.edu/publications/painterly-relaxation), more like [Painterly rendering with curved brush strokes of multiple sizes](https://dl.acm.org/doi/10.1145/280814.280951) in practice.
 - Multi-threaded with optimistic locking.
 
-#### [![HugoSynth](https://img.shields.io/badge/Hugo%20Synth-Matlab-blue?style=flat&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/Trenza1ore/HugoSynth)
+#### [![HugoSynth](https://img.shields.io/badge/Hugo%20Synth-Matlab-blue?style=flat&uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/Trenza1ore/HugoSynth)
 - Undergraduate coursework, synthesizer GUI app with Matlab.
 - A feature-rich synthesizer app for cross-synthesis, granular convolution, spectrogram editing, ADSR enveloping, etc.
 
@@ -83,9 +83,9 @@ I wrote the *self-referential extras* part of [Python Packaging Guide](https://p
 
 | | |
 |---|---|
-|[![gitanimals](https://render.gitanimals.org/farms/trenza1ore?uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://github.com/devxb/gitanimals)|![lang-stat](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Trenza1ore&size_weight=1.0&count_weight=0.0&langs_count=20&hide_progress=true&uuid=fb8bc71a5a1842c08184b2d7ad4bccde)|
+|[![gitanimals](https://render.gitanimals.org/farms/trenza1ore?uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://github.com/devxb/gitanimals)|![lang-stat](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Trenza1ore&size_weight=1.0&count_weight=0.0&langs_count=20&hide_progress=true&uuid=ee1b23509c224897a1f88cfc15a0f5e1)|
 
-[![Hugo profile views](https://u8views.com/api/v1/github/profiles/25863274/views/day-week-month-total-count.svg?uuid=fb8bc71a5a1842c08184b2d7ad4bccde)](https://u8views.com/github/Trenza1ore)
+[![Hugo profile views](https://u8views.com/api/v1/github/profiles/25863274/views/day-week-month-total-count.svg?uuid=ee1b23509c224897a1f88cfc15a0f5e1)](https://u8views.com/github/Trenza1ore)
 
 <!--comment-split-->
 
