@@ -11,7 +11,7 @@ I am currently a PhD candidate at the University of Edinburgh doing Embodied AI 
 
 Before my PhD, I used to work as a research engineer at Huawei Edinburgh Research Centre and got a [Star of Edinburgh Award](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in openJiuwen. 
 
-I really like games, especially **Doom** & Monster Hunter. I am the current maintainer of [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv). Feel free to contact me on the [Farama Discord server](https://discord.gg/bnJ6kubTg6).
+I really like games, especially **Doom** & Monster Hunter. I am the current maintainer of [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) and [Shimmy](https://github.com/Farama-Foundation/Shimmy). Feel free to contact me on the [Farama Discord server](https://discord.gg/bnJ6kubTg6).
 
 I wrote the *self-referential extras* part of [Python Packaging Guide](https://packaging.python.org) and marked its official support in pip, ur welcome :-)
 
