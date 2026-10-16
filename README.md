@@ -7,7 +7,7 @@
 **Personal Website:** https://hugohuang.com/
 > **openJiuwen - Huawei's LLM Agent Development Platform/SDK:** [Website](https://www.openjiuwen.com) & [Source](https://gitcode.com/openJiuwen)
 
-I am currently a PhD candidate at the University of Edinburgh doing Embodied AI stuffs.
+I am currently a PhD candidate at the University of Edinburgh doing Embodied AI stuffs, and also the head of developers at [Farama Foundation](https://farama.org).
 
 Before my PhD, I used to work as a research engineer at Huawei Edinburgh Research Centre and got a [Star of Edinburgh Award](https://3ms.huawei.com/next/groups/index.html#/wiki/detail?groupId=2029357&wikiId=8029932) for my work in openJiuwen. 
 
